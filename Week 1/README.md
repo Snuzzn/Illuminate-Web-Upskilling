@@ -4,7 +4,7 @@
 
 For each exercise, your task is to recreate the image using html and css. You **don't** have to have to make the font, sizing, margins etc. exactly as it is in the image. Just make it look like it by eye.
 
-The necessary assets are provided in the folder that corresponds to the exercise. These assets might be not be exactly the ones in the image but they were the closest ones that I coud find.
+Please make a folder for each exercise if it doesn't already exist. Exercise 2 and 4 have assets which have already been added to those folders.
 
 Also, you'll find that a color picker app/chrome extension may help you get the colours you need from the image.  Here's one you can try: [ColorPick Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg).
 
