@@ -13,19 +13,19 @@ I highly recommend you look into learning css flexbox and maybe css grid if you 
 
 
 ## Exercise 1
-![[ex1.png]]
+![ex1](ex1.png)
 
 
 ## Exercise 2
-![[ex2.png]]
+![ex2.png](ex2.png)
 
 
 
 
 ## Exercise 3
-![[ex3.png]]
+![ex3.png](ex3.png)
 
 
 
 ## Exercise 4
-![[ex4.png]]
+![ex4.png](ex4.png)
