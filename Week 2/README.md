@@ -1,6 +1,6 @@
 # Week 2 Exercise
 
-This week's exercise is a basic todo list web app. This will require DOM manipulation with javascript. I recommend watching the following YouTube video to help understand this: https://www.youtube.com/watch?v=y17RuWkWdn8.
+This week's exercise is a basic todo list web app. This will require DOM manipulation with javascript. I recommend watching the following YouTube videos to help understand this: https://www.youtube.com/watch?v=y17RuWkWdn8 and https://www.youtube.com/watch?v=F3odgpghXzY.
 
 The starter files can be found in the todo-list folder.
 
