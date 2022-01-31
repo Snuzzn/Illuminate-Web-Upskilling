@@ -1,0 +1,77 @@
+.mainContainer {
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  min-height: 200vh;
+}
+
+.hero {
+  color: #262937;
+  padding: 100px;
+  display: flex;
+  flex-direction: column;
+}
+
+
+.heroTitle {
+  font-size: xxx-large;
+  font-weight: 600;
+  margin-bottom: 20px;
+
+}
+.heroImg {
+  border-radius: 20px;
+  margin-bottom: 30px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  gap: 30px;
+  background-color: white;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  width: 97%;
+  position: sticky;
+  top: 0px;
+}
+
+.logoIcon {
+  width: 40px; 
+}
+
+.logoContainer {
+  margin-right: auto;
+  font-size: 14pt;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+}
+
+
+.navItem:hover {
+  color: #5188FC;
+  cursor: pointer;
+}
+
+.loginBtn {
+  background-color: #273341;
+  padding: 10px 25px;
+  color: white;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+
+.footer {
+  background-color: #4E8EFC;
+  color: white;
+  padding: 10px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

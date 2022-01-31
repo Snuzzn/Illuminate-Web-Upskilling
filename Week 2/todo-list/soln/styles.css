@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;500&display=swap');
+body {
+  font-family: 'Nunito', sans-serif;
+  background-image: linear-gradient(45deg, #ff9a9e 0%, #fad0c4 99%, #fad0c4 100%);
+  height: 100vh;
+  padding: 10px;
+  display: flex;
+}
+
+h1 {
+  font-size: 30pt;
+}
+
+.mainContainer {
+  margin: auto auto;  
+  background-color: white;
+  width: 500px;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #262855;
+}
+
+#date {
+  color: #e9888a; 
+  font-size: 15pt;
+}
+
+hr {
+  border: 1px solid #e9888a;
+  width: 70px;
+}
+
+
+.todo {
+  font-size: 14pt;
+  width: 400px;
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  border: 2px solid rgb(213, 213, 213);
+}
+
+#todoContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+
+input[type=checkbox] {
+  width: 20px;
+  height: 20px;
+}
+
+
+#newTodo {
+  padding: 10px;
+  border: 1px solid rgb(213, 213, 213);
+  width: 365px;
+}
+
+#newTodoForm {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding-bottom: 10px;
+  padding-top: 20px;
+}
+
+
